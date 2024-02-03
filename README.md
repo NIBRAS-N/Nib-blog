@@ -2,10 +2,10 @@
 
 # Inital UI:
 
-<img src ="Capture 1.png">
-<img src ="Capture 2.png">
-<img src ="Capture 3.png">
-<img src ="Capture 4.png">
+<img src ="Capture 1.PNG">
+<img src ="Capture 2.PNG">
+<img src ="Capture 3.PNG">
+<img src ="Capture 4.PNG">
 
 
 
